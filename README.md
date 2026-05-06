@@ -1,6 +1,6 @@
 # Employee-Performance-Analytics
 
-# Project Overview
+## Project Overview
 
 This project analyzes employee performance and satisfaction data using Python, Pandas, and NumPy.
 
